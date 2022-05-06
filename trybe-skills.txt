@@ -2,7 +2,5 @@
 - Bash
 - Git
 - JavaScript
-- Git
 - HTML
 - CSS
--caacaca

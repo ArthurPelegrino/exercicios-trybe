@@ -1,7 +1,6 @@
 - Unix
 - Bash
 - Git
-- Git
+- JavaScript
 - HTML
 - CSS
-aaaa

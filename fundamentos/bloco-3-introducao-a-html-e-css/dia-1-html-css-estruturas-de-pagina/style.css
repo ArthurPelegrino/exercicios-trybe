@@ -1,0 +1,43 @@
+<style>
+h3 {
+    color: green;
+    font-size: 2em;
+    
+}
+h1 {
+    color: green;
+    font-size: 3em;
+    font-style: Arial;
+}
+body {
+    background-color: black;
+    font-size: 15px;
+    background-image: url(/Fotos\ projeto/logo-trybe.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: ccenter-center;
+}
+#menu{
+    background-color: green
+}
+
+.list-style {
+    font-family: monospace, Helvetica, sans-serif;
+    line-height: 1;
+}
+
+#resumo {
+    font-family: monospace, Helvetica, sans-serif;
+    line-height: 1;
+
+}
+
+p {
+    color: aqua;
+    font-family: Helvetica, sans-serif;
+}
+
+li {
+    color: aqua;
+}
+<style>
